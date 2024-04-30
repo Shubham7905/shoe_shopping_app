@@ -1,6 +1,6 @@
 # shop_app_flutter
 
-A new Flutter project.
+This is a new flutter shopping app project that has cart functionality.
 
 ## Getting Started
 
